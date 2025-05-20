@@ -2,7 +2,7 @@
 
 <img width="581" alt="Bildschirmfoto 2025-05-21 um 00 06 04" src="https://github.com/user-attachments/assets/4a58dfa7-036b-478c-92c5-526a12e5c6eb" />
 
-# The movement values each interval is
+# The movement values each interval are
 
 ## dx
 
